@@ -13,15 +13,15 @@ Steps to install program :-
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Steps to run program :-
-1.run "FEEDX.CPP"
-2.create new user
-3.restart the program
-4. enter user id ,Press enter 
-5. enter password , Don't press enter Click on login button
+Steps to run program :-  
+1.run "FEEDX.CPP"  
+2.create new user  
+3.restart the program  
+4. enter user id ,Press enter   
+5. enter password , Don't press enter Click on login button  
 
 ----------------------------------------------------------------------------------------------------------------------------
 
---> Use mouse more then Enter key
---> While using this project do give credits
+--> Use mouse more then Enter key  
+--> While using this project do give credits  
 --> If having any problem with thus code feel free to mail me at "singhdevendra818@gmail.com"
